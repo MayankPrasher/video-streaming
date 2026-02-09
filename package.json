@@ -1,0 +1,23 @@
+{
+  "name": "video-streaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.0.2",
+    "uuid": "^13.0.0",
+    "video.js": "^8.23.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
