@@ -11,8 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.985.0",
+    "bullmq": "^5.67.3",
     "cors": "^2.8.5",
+    "dotenv": "^17.2.4",
     "express": "^5.2.1",
+    "ioredis": "^5.9.2",
     "multer": "^2.0.2",
     "uuid": "^13.0.0",
     "video.js": "^8.23.4"
